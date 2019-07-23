@@ -1,0 +1,2 @@
+# Machine-Learning-in-Financial-Markets
+We explore aspects of machine learning in finance. We will use different machine learning models (Logistic Regression, Random Forest Classifier, K Nearest Neighbors, Support Vector Classifier) to see if we can predict whether today's returns for Apple stocks will be positive or negative based on the returns of the 4 previous days and we compare these models prediction accuracy.
